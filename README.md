@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nafiu Murtala Kamaluddeen.
 - 👀 I’m interested in Web development, skilled in Html, Css, bootstrap, JavaScript, PHP and MYSQL.
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate as a junior on any project that requires skill
+- 💞️ I’m looking to collaborate as a junior developer on any project that requires skill
 - 📫 How to reach me....  whatsapp: +2349073539275
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
